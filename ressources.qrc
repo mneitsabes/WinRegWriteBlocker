@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ressources/icon.png</file>
+        <file>ressources/protect-off.png</file>
+        <file>ressources/protect-on.png</file>
+        <file>ressources/clock.png</file>
+        <file>ressources/warning.png</file>
+        <file>ressources/ok.png</file>
+    </qresource>
+</RCC>
